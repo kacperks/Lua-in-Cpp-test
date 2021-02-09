@@ -1,3 +1,5 @@
+//this file getting variable from lua command
+
 #include <iostream>
 #include <string>
 
